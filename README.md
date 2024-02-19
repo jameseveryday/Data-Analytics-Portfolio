@@ -1,7 +1,7 @@
 <h1>Data Analytics Portfolio</h1>
 
 ## Table of Contents
-- [About](https://github.com/jameseveryday/Data-Analytics-Portfolio/edit/main/README.md#About)
+- [About](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/README.md#About)
 - [Skills](https://github.com/jameseveryday/Data-Analytics-Portfolio/edit/main/README.md#Skills)
 - [Projects](https://github.com/jameseveryday/Data-Analytics-Portfolio/edit/main/README.md#Projects)
   - [Brazilian E-Commerce by Olist](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/brazilian_e-commerce_by_olist)
