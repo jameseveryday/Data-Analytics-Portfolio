@@ -17,8 +17,8 @@
 ## Expertise
 - *Hard Skills:*
   - Advanced Microsoft Excel
-  - SQL | pgAdmin
-  - Google Colaboratory | Jupyter
+  - SQL, pgAdmin
+  - Google Colaboratory, Jupyter
   - Python
     - Pandas
     - Matplotlib
