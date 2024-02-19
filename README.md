@@ -1,4 +1,4 @@
-<h1>Data Analytics Portfolio</h1>
+# James' Data Analytics Portfolio
 
 ## About
 - An aspiring Data Analyst equipped with skills in data gathering, cleaning, managing, analyzing, and visualizing data for the use of technical and non-technical audiences.
