@@ -6,7 +6,7 @@
 - Looking to leverage my skills for a role as a Data Analyst.
 
 ## Expertise
-- *Hard Skills:*
+- **Hard Skills:**
   - Advanced Microsoft Excel
   - SQL, pgAdmin
   - Google Colaboratory, Jupyter
@@ -18,8 +18,8 @@
   - Power BI
   - Advanced Mathematical skills
   - Data Modeling, Data Analysis, and Data Visualization.
----
-- *Soft Skills:*
+
+- **Soft Skills:**
   - Analytical and technical.
   - Organized, can manage time and prioritize task accordingly.
   - Can communicate effectively with English and/or Filipino language.
@@ -31,6 +31,15 @@
   - Developed interactive dashboards using Power BI to visualize key metrics and trends, such as sales trends, price distribution, product volume, geographical distribution of customers and sales, delivery performance, product quality, and customer satisfaction ratings
   - Provided actionable insights for decision-making such as enhancing customer experience, exploring delivery performance to mitigate delivery issues, and advising for a customer channel/feedback support system to enhance quality control.
 
-    
-  - [Hotel Bookings](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/hotel_bookings)
-  - [Understanding Yellevate's Invoices](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/yellevate_invoices)
+### Project II:  [Hotel Bookings](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/hotel_bookings)
+  - Conducted comprehensive data cleaning and preprocessing of the Hotel Booking Dataset using Python libraries such as Pandas, Matplotlib, Seaborn, and Numpy.
+  - Employed exploratory data analysis (EDA) techniques to identify variables affecting hotel reservation cancellation, including price, categorization of guests, booking duration, and booking channel uncovering actionable insights for hotel management.
+  - Utilized statistical analysis like hypothesis testing and RFM (Recency-Frequency-Monetary) analysis to assess and predict the impact of pricing strategies and promotional activities on hotel reservation cancelation rates, providing recommendations for optimizing revenue and occupancy rates.
+
+
+### Project III:  [Understanding Yellevate's Invoices](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/yellevate_invoices)
+  - Using SQL queries and Microsoft Excel, identified key metrics such as average processing time for settling invoices and disputes, percentage of lost disputes, location of most revenue lost, location of most dispute lost, geographical analysis, and revenue lost from disputes.
+  - Employed Excel for data visualization, including pivot tables and pivot charts, to visually represent analysis results and derive actionable insights.
+  - Presented findings and recommendations through PowerPoint presentations, showcasing insights on invoice settlement times, dispute resolution rates, and revenue loss breakdown by country.
+  - Recommended solutions such as revising contract terms and conditions, implementing a dispute window, and conducting a market study to address revenue loss disparities across countries.
+
