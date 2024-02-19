@@ -46,8 +46,8 @@
 
 **Sample Figure/s:**
 
-![Cancellation Rates by Deposite Type and Repeating Guest](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/hotel_bookings/images/cancellation_rates_by_deposit_type_and_repeating_guest.png)
-![Relationship between Cancellation Rates and Special Requests or Booking Changes](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/hotel_bookings/images/relationship_between_cancellation_rates_and_special_requests_or_booking_changes.png)
+![Cancellation Rates by Deposite Type and Repeating Guest](https://raw.githubusercontent.com/jameseveryday/Data-Analytics-Portfolio/main/hotel_bookings/images/cancellation_rates_by_deposit_type_and_repeating_guest.png)
+![Relationship between Cancellation Rates and Special Requests or Booking Changes](https://raw.githubusercontent.com/jameseveryday/Data-Analytics-Portfolio/main/hotel_bookings/images/relationship_between_cancellation_rates_and_special_requests_or_booking_changes.png)
 
 ### Project III:  [Understanding Yellevate's Invoices](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/yellevate_invoices)
 #### *Skills:* **ETL, SQL, pgAdmin, Microsoft Excel, Data Visualization, Data Analytics**
@@ -59,6 +59,6 @@
 
 **Sample Figure/s:**
 
-![Amount of Revenue Lost by Country](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/yellevate_invoices/images/amount_of_revenue_lost_by_country.jpg)
-![Market Share per Country Based on Invoice Account](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/yellevate_invoices/images/market_share_per_country_based_on_invoice_amount.jpg)
-![Average Days to Settle Invoices](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/yellevate_invoices/images/average_days_to_settle_invoices.jpg)
+![Amount of Revenue Lost by Country](https://raw.githubusercontent.com/jameseveryday/Data-Analytics-Portfolio/main/yellevate_invoices/images/amount_of_revenue_lost_by_country.jpg)
+![Market Share per Country Based on Invoice Account](https://raw.githubusercontent.com/jameseveryday/Data-Analytics-Portfolio/main/yellevate_invoices/images/market_share_per_country_based_on_invoice_amount.jpg)
+![Average Days to Settle Invoices](https://raw.githubusercontent.com/jameseveryday/Data-Analytics-Portfolio/main/yellevate_invoices/images/average_days_to_settle_invoices.jpg)
