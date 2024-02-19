@@ -41,7 +41,9 @@
   - Employed exploratory data analysis (EDA) techniques to identify variables affecting hotel reservation cancellation, including price, categorization of guests, booking duration, and booking channel uncovering actionable insights for hotel management.
   - Utilized statistical analysis like hypothesis testing and RFM (Recency-Frequency-Monetary) analysis to assess and predict the impact of pricing strategies and promotional activities on hotel reservation cancelation rates, providing recommendations for optimizing revenue and occupancy rates.
 
-
+*Sample Figure/s:*
+![Cancellation Rates by Deposite Type and Repeating Guest](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/hotel_bookings/images/Cancellation%20Rates%20by%20Deposite%20Type%20and%20Repeating%20Guest.png)
+![Relationship between Cancellation Rates and Special Requests or Booking Changes](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/hotel_bookings/images/Relationship%20between%20Cancellation%20Rates%20and%20Special%20Requests%20or%20Booking%20Changes.png)
 
 ### Project III:  [Understanding Yellevate's Invoices](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/yellevate_invoices)
 #### *Skills:* **ETL, SQL, pgAdmin, Microsoft Excel, Data Visualization, Data Analytics**
@@ -50,6 +52,6 @@
   - Presented findings and recommendations through PowerPoint presentations, showcasing insights on invoice settlement times, dispute resolution rates, and revenue loss breakdown by country.
   - Recommended solutions such as revising contract terms and conditions, implementing a dispute window, and conducting a market study to address revenue loss disparities across countries.
 
-*Sample Figure/s:*
+==Sample Figure/s:==
 ![Market Share per Country Based on Invoice Account](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/yellevate_invoices/images/yellevate_invoices%20Page%20006.jpg)
 ![Average Days to Settle Invoices](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/yellevate_invoices/images/yellevate_invoices%20Page%20007.jpg)
