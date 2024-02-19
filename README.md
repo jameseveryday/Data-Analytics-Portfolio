@@ -1,4 +1,4 @@
-<h1>Data Analytics Portfolio</h1>h1>
+<h1>Data Analytics Portfolio</h1>
 
 ## Table of Contents
 - [About](https://github.com/jameseveryday/Data-Analytics-Portfolio/edit/main/README.md#About)
