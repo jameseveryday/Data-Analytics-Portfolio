@@ -32,9 +32,15 @@
   - Developed interactive dashboards using Power BI to visualize key metrics and trends, such as sales trends, price distribution, product volume, geographical distribution of customers and sales, delivery performance, product quality, and customer satisfaction ratings
   - Provided actionable insights for decision-making such as enhancing customer experience, exploring delivery performance to mitigate delivery issues, and advising for a customer channel/feedback support system to enhance quality control.
 
+
+
+
 **Sample Figure/s:**
 
 ![General Dashboard](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/brazilian_e-commerce_by_olist/images/General%20Dashboard.jpg)
+
+
+
 
 ### Project II:  [Hotel Bookings](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/hotel_bookings)
 #### *Skills:* **ETL, Python, Google Colaboratory/Jupyter, Data Visualization, Data Analytics, Business Metrics, Statistics**
@@ -42,10 +48,15 @@
   - Employed exploratory data analysis (EDA) techniques to identify variables affecting hotel reservation cancellation, including price, categorization of guests, booking duration, and booking channel uncovering actionable insights for hotel management.
   - Utilized statistical analysis like hypothesis testing and RFM (Recency-Frequency-Monetary) analysis to assess and predict the impact of pricing strategies and promotional activities on hotel reservation cancelation rates, providing recommendations for optimizing revenue and occupancy rates.
 
+
+
 **Sample Figure/s:**
 
 ![Cancellation Rates by Deposite Type and Repeating Guest](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/hotel_bookings/images/Cancellation%20Rates%20by%20Deposite%20Type%20and%20Repeating%20Guest.png)
 ![Relationship between Cancellation Rates and Special Requests or Booking Changes](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/hotel_bookings/images/Relationship%20between%20Cancellation%20Rates%20and%20Special%20Requests%20or%20Booking%20Changes.png)
+
+
+
 
 ### Project III:  [Understanding Yellevate's Invoices](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/yellevate_invoices)
 #### *Skills:* **ETL, SQL, pgAdmin, Microsoft Excel, Data Visualization, Data Analytics**
@@ -53,6 +64,8 @@
   - Employed Excel for data visualization, including pivot tables and pivot charts, to visually represent analysis results and derive actionable insights.
   - Presented findings and recommendations through PowerPoint presentations, showcasing insights on invoice settlement times, dispute resolution rates, and revenue loss breakdown by country.
   - Recommended solutions such as revising contract terms and conditions, implementing a dispute window, and conducting a market study to address revenue loss disparities across countries.
+
+
 
 **Sample Figure/s:**
 
