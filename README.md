@@ -14,14 +14,24 @@
 - Advanced understanding of statistical, algebraic, and technical analysis.
 - Looking to leverage my skills for a role as a Data Analyst.
 
-## Skills
-- Writing and communication
-- Problem solving
-- Data cleaning and preparation
-- Data analysis and exploration
-- Statistical knowledge
-- Creating data visualizations
-- Creating dashboards and reports
+## Expertise
+- *Hard Skills:*
+  - Advanced Microsoft Excel
+  - SQL | pgAdmin
+  - Google Colaboratory | Jupyter
+  - Python
+    - Pandas
+    - Matplotlib
+    - Seaborn
+    - NumPy
+  - Power BI
+  - Advanced Mathematical skills
+  - Data Modeling, Data Analysis, and Data Visualization.
+
+- *Soft Skills:*
+  - Analytical and technical.
+  - Organized, can manage time and prioritize task accordingly.
+  - Can communicate effectively with English and/or Filipino language.
 
 ## Certificates
 - [DataCamp](https://app.datacamp.com/)
