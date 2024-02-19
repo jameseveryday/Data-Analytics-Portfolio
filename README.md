@@ -35,7 +35,7 @@
 
 **Sample Figure/s:**
 
-![General Dashboard](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/brazilian_e-commerce_by_olist/images/general_dashboard.jpg)
+![General Dashboard](https://raw.githubusercontent.com/jameseveryday/Data-Analytics-Portfolio/main/brazilian_e-commerce_by_olist/images/general_dashboard.jpg)
 
 ### Project II:  [Hotel Bookings](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/hotel_bookings)
 #### *Skills:* **ETL, Python, Google Colaboratory/Jupyter, Data Visualization, Data Analytics, Business Metrics, Statistics**
