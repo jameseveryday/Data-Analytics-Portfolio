@@ -32,6 +32,8 @@
   - Developed interactive dashboards using Power BI to visualize key metrics and trends, such as sales trends, price distribution, product volume, geographical distribution of customers and sales, delivery performance, product quality, and customer satisfaction ratings
   - Provided actionable insights for decision-making such as enhancing customer experience, exploring delivery performance to mitigate delivery issues, and advising for a customer channel/feedback support system to enhance quality control.
 
+![General Dashboard](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/brazilian_e-commerce_by_olist/images/General%20Dashboard.jpg)
+
 ### Project II:  [Hotel Bookings](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/hotel_bookings)
 #### *Skills:* **ETL, Python, Google Colaboratory/Jupyter, Data Visualization, Data Analytics, Business Metrics, Statistics**
   - Conducted comprehensive data cleaning and preprocessing of the Hotel Booking Dataset using Python libraries such as Pandas, Matplotlib, Seaborn, and Numpy.
