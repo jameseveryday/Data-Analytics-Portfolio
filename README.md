@@ -32,9 +32,12 @@
   - Analytical and technical.
   - Organized, can manage time and prioritize task accordingly.
   - Can communicate effectively with English and/or Filipino language.
+ 
+## Projects
+
 
 ## Certificates
-- [DataCamp](https://app.datacamp.com/)
+- DataCamp
   - [Associate Data Analyst](https://www.datacamp.com/certificate/DAA0017596132874)
   - [Professional Data Analyst](https://www.datacamp.com/certificate/DA0028644900663)
 
