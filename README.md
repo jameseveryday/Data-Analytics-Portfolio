@@ -27,7 +27,8 @@
 ## Capstone Projects
 
 ### Project I:  [Brazilian E-Commerce by Olist](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/brazilian_e-commerce_by_olist)
-#### *Skills:* **ETL, PowerBI, Data Modelling, Data Visualization, Data Analytics**
+#### *Skills:*
+#### **ETL, PowerBI, Data Modelling, Data Visualization, Data Analytics**
   - Utilized extract, transform, and load (ETL) techniques to clean, transform, and integrate/load Brazilian E-Commerce dataset with Power BI, enhancing data quality and consistency.
   - Developed interactive dashboards using Power BI to visualize key metrics and trends, such as sales trends, price distribution, product volume, geographical distribution of customers and sales, delivery performance, product quality, and customer satisfaction ratings
   - Provided actionable insights for decision-making such as enhancing customer experience, exploring delivery performance to mitigate delivery issues, and advising for a customer channel/feedback support system to enhance quality control.
