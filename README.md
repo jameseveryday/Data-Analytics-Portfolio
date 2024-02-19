@@ -32,6 +32,7 @@
   - Developed interactive dashboards using Power BI to visualize key metrics and trends, such as sales trends, price distribution, product volume, geographical distribution of customers and sales, delivery performance, product quality, and customer satisfaction ratings
   - Provided actionable insights for decision-making such as enhancing customer experience, exploring delivery performance to mitigate delivery issues, and advising for a customer channel/feedback support system to enhance quality control.
 
+*Sample Figure/s:*
 ![General Dashboard](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/brazilian_e-commerce_by_olist/images/General%20Dashboard.jpg)
 
 ### Project II:  [Hotel Bookings](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/hotel_bookings)
@@ -41,6 +42,7 @@
   - Utilized statistical analysis like hypothesis testing and RFM (Recency-Frequency-Monetary) analysis to assess and predict the impact of pricing strategies and promotional activities on hotel reservation cancelation rates, providing recommendations for optimizing revenue and occupancy rates.
 
 
+
 ### Project III:  [Understanding Yellevate's Invoices](https://github.com/jameseveryday/Data-Analytics-Portfolio/tree/main/yellevate_invoices)
 #### *Skills:* **ETL, SQL, pgAdmin, Microsoft Excel, Data Visualization, Data Analytics**
   - Using SQL queries and Microsoft Excel, identified key metrics such as average processing time for settling invoices and disputes, percentage of lost disputes, location of most revenue lost, location of most dispute lost, geographical analysis, and revenue lost from disputes.
@@ -48,3 +50,6 @@
   - Presented findings and recommendations through PowerPoint presentations, showcasing insights on invoice settlement times, dispute resolution rates, and revenue loss breakdown by country.
   - Recommended solutions such as revising contract terms and conditions, implementing a dispute window, and conducting a market study to address revenue loss disparities across countries.
 
+*Sample Figure/s:*
+![Market Share per Country Based on Invoice Account](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/yellevate_invoices/images/yellevate_invoices%20Page%20006.jpg)
+![Average Days to Settle Invoices](https://github.com/jameseveryday/Data-Analytics-Portfolio/blob/main/yellevate_invoices/images/yellevate_invoices%20Page%20007.jpg)
